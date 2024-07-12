@@ -1,7 +1,15 @@
-### Hi there, Let's Code! 👋
-
-Here are some ideas to get you started:
+ ### Hey, Let's Build Something Awesome! 👋
 
 - 💪 Full Stack Web Developer
-- 💬 Ask me about Web Development
+- 🛠️ Devoted to building dynamic and responsive web applications
+- 💡 Always on the lookout for new tech trends
+- 🌐 Advocate for maintainable and scalable code
+- 🎨 Blending creativity with technology
+- 🔍 Debugging expert and optimization enthusiast
+- 💬 Talk to me about Web Development, JavaScript, React, and Angular
+- 📚 Tech article reader and open-source enthusiast
+- ☕ Coffee lover 
+- 🎵 Music addict 
+- 🚀 Ready for the next big coding adventure
+
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/divya-gupta-3a505617a)
