@@ -7,9 +7,6 @@
 - 🎨 Blending creativity with technology
 - 🔍 Debugging expert and optimization enthusiast
 - 💬 Talk to me about Web Development, JavaScript, React, and Angular
-- 📚 Tech article reader and open-source enthusiast
-- ☕ Coffee lover 
-- 🎵 Music addict 
 - 🚀 Ready for the next big coding adventure
 
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/divya-gupta-3a505617a)
