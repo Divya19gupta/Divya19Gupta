@@ -1,4 +1,4 @@
-# Hey, I'm Divya 👋
+# Hey, I'm [Divya](https://dg-portfolio-web.vercel.app) 👋
 *"Building things my younger self would've thought were magic."* ✨
 
 - 🎓 **Master's in Computer Science** @ Saarland University, Germany
