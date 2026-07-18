@@ -5,14 +5,7 @@
 - 💼 **Former Software Engineer** @ FICO
 - 🧠 Currently building an AI-powered interview simulator as part of my master's thesis, exploring **Trustworthy AI**, **Human-AI Interaction**, and **Explainable AI**.
 - 🚀 I love building things that solve real problems, whether that's with AI, full-stack development, or a random weekend project that somehow gets out of hand.
-  
----
-
-## Currently collecting:
-- ☑️ Side projects
-- ☑️ Research papers
-- ☑️ Passport stamps
-- ☑️ Tabs I'll definitely read later
+- **Currently collecting:** Side projects, Research papers, Passport stamps and tabs that I'll definitely read later
 
 ---
 
@@ -23,18 +16,6 @@
 - 📊 Data Science
 - ☁️ Cloud & Scalable Systems
 - 🧩 Algorithms because suffering builds character.
-
----
-
-## 🛠️ Things I've Built
-
-- ✨ AI-powered Interview Simulator
-- 📈 AI Stock Trading Platform (RAG + LangChain)
-- 🍛 Currywurst vs Curry Image Classifier *(because priorities)*
-- 📊 Health Insurance Causal Analysis
-- 🧬 Disease Spread Simulator
-- 🥗 NFC Nutrition Scanner
-- 🌍 Plenty of full-stack projects that taught me debugging is less of a skill and more of a personality trait.
 
 ---
 
